@@ -2,9 +2,9 @@
 # Aim
 Write a simple Python program for the modulation and demodulation of PSK and QPSK.
 # Tools required
-Google colab
+Python IDE
 # Program
-# PSK
+PSK
 ```
 import numpy as np
 import matplotlib.pyplot as plt
@@ -59,8 +59,7 @@ plt.legend()
 plt.tight_layout()
 plt.show()
 ```
-
-# QPSK
+QPSK
 ```
 import numpy as np
 import matplotlib.pyplot as plt
@@ -138,17 +137,14 @@ plt.ylim(-0.5, 1.5)
 plt.tight_layout()
 plt.grid(True)
 plt.show()
+
 ```
 # Output Waveform
-# PSK
+PSK
+<img width="1499" height="974" alt="17598261617508590674353039362294" src="https://github.com/user-attachments/assets/597e9724-ea27-4845-9a10-0ded8b47eef8" />
 
-<img width="1528" height="1011" alt="Screenshot 2025-10-06 142029" src="https://github.com/user-attachments/assets/9c318150-5d60-4da8-bdaa-374d48686e94" />
-
-
-# QPSK
-
-<img width="1268" height="757" alt="Screenshot 2025-10-06 142135" src="https://github.com/user-attachments/assets/af719863-e0f5-4e6b-87b8-6a983e5c0980" />
-
+QPSK
+<img width="1242" height="748" alt="17598261931549011853679220682794" src="https://github.com/user-attachments/assets/686af791-ccc1-4aa3-aa12-24620eed5362" />
 
 # Results
-The experiment of modulation and demodulation of Phase Key Shifting and Quadriphase Key Shifting was successfully executed
+The experiment of modulation and demodulation of Phase Key Shifting and Quadriphase Key Shifting was successfully executed.
